@@ -109,7 +109,7 @@ int main(){
     
     //cout<<"Your Car is booked."<<endl;
     cout<<"!-------------------------------------------------------!"<<endl;
-    cout<<"\t\tThank You \t\t\nDrive Safe:)"<<endl;
+    cout<<"\t\tThank You \n\t\tDrive Safe:)"<<endl;
     cout<<"!-------------------------------------------------------!"<<endl;
     
     return 0;
